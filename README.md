@@ -4,6 +4,7 @@
 
 🇬🇧🇫🇷 영어와 프랑스어를 원어민 수준으로 구사합니다.
 
+
 🌕 **Strong** | JS(ES6), HTML, CSS, React.js
 
 🌖 **Knowledgeable** | Typescript, Node.js, Express, MySQL
